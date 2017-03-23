@@ -1,14 +1,14 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Kai Abraliev's Portfolio.
+title: Kazbek Abraliev's Portfolio.
 email: k@abraliev.com
-brand: Kai Abraliev
-headline: front-end web developer
+brand: Kazbek Abraliev
+headline: front end web developer
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://abraliev.com" # the base hostname & protocol for your site
-copyright: 2017 StartFastCode, Syracuse, NY.
+copyright: 2017 StartFast Code, Syracuse, NY.
 
 # Build settings
 markdown: kramdown
