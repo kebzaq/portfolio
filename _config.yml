@@ -1,10 +1,10 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Kai Abraliev's Portfolio.
-email: k@abraliev.com
-brand: Kai Abraliev
+title: Kazbek Abraliev's Portfolio.
+email: kazbek.abraliev@gmail.com
+brand: Kazbek Abraliev
 headline: Software QA Engineer
-description: This web site provides information about Kai Abraliev who lives in Syracuse NY 
+description: This web site provides information about Kazbek Abraliev, Software Quality Engineer based in Syracuse NY.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://abraliev.com" # the base hostname & protocol for your site
 copyright: 2017 StartFast Code, Syracuse, NY.
@@ -16,7 +16,7 @@ markdown: kramdown
 snapwidget: 356331
 
 # Contacts
-email: k@abraliev.com
+email: kazbek.abraliev@gmail.com
 phone: +1.916.717.1061
 
 # Tracking
