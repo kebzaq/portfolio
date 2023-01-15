@@ -7,7 +7,7 @@ headline: Software QA Engineer
 description: This web site provides information about Kazbek Abraliev, Software Quality Engineer based in Syracuse NY.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://abraliev.com" # the base hostname & protocol for your site
-copyright: 2017 StartFast Code, Syracuse, NY.
+copyright: 2023 Syracuse, NY.
 
 # Build settings
 markdown: kramdown
